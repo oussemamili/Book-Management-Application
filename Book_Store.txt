@@ -1,0 +1,5 @@
+Head First Java 2nd Edition,978-0596009205,31.41
+Java In A Nutshell,978-0596007737,10.90
+Java: The Complete Reference,978-0071808552,40.18
+Head First Servlets and JSP,978-0596516680,35.41
+Java Puzzlers,978-0321336781,39.99
