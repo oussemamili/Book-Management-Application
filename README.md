@@ -3,4 +3,4 @@
 
 • Implementation of Java RMI mechanism to enable remote access to book records and manage operations across distributed systems.
 
-• Used Technologie : Java
+• Used Technologie : Java.
